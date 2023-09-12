@@ -500,9 +500,9 @@ export const Project: Project_data[] = [
   {
     title: "Dispora Web App",
     video_key: "yF1oJ7wzvWY",
-    say_xi: "A Youth & Sport management application made with Laravel",
+    say_xi: "Introduction",
     say_xi_blog:
-      "A Youth & Sports management app designed to streamline coordination and communication within the youth sports community. This versatile tool brings together coaches and young athletes, facilitating scheduling, performance monitoring, and seamless interaction. Whether you're a coach or an athlete, this app simplifies youth and sports activity management, promoting organization, progress monitoring, and teamwork.",
+      "A Youth & Sport management application made with Laravel",
     technology_feature: [
       "Laravel",
       "PHP",
@@ -534,7 +534,7 @@ export const Project: Project_data[] = [
       "",
     project_image: "/diaspora.png",
     project_blog:
-      "You can download manually or use Composer to install the dependencies. I really recommend using Composer unless you want to do every configuration by yourself",
+      "A Youth & Sports management app designed to streamline coordination and communication within the youth sports community. This versatile tool brings together coaches and young athletes, facilitating scheduling, performance monitoring, and seamless interaction. Whether you're a coach or an athlete, this app simplifies youth and sports activity management, promoting organization, progress monitoring, and teamwork.",
     Type: "Laravel",
     indevelopment: false,
   },
