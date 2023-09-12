@@ -17,7 +17,7 @@ function page() {
       <div className=" w-full 1250:w-[900px] h-auto m-auto mt-[25px] pb-[100px] ">
         <div className=" text-gray-400 text-[14px]">Mon, 12 Sep 2023</div>
         <div className="w-full h-auto font-bold text-[29px] my-[15px] text-slate-200  animate-slowfade ">
-          Hi, I'm Daffa
+          Hi, I&apos;m Daffa
         </div>
         <div className=" text-gray-300 animate-slideright ">
           A passionate software engineer with a deep passion for creating elegant and efficient solutions through code. With a comprehensive understanding of various <span className="text-sky-500">frontend</span> & <span className="text-emerald-500">backend</span> libraries and frameworks, I have been navigating the ever-evolving landscape of web development with enthusiasm and dedication. Currently, reside in Cirebon, <span className="text-rose-600">Indonesia</span>.

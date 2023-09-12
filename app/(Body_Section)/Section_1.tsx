@@ -1,5 +1,6 @@
 "use client";
 import React from "react";
+import { Dispatch } from "react";
 import Section1_text from "./Section1_text";
 import { Skill_data } from "../../utils/constants";
 import Skill_data_provider from "./Skill_data_provider";

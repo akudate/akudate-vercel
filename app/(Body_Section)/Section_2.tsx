@@ -28,7 +28,7 @@ function Section_2() {
         </motion.div>
         <div className="  w-auto h-auto  animate-slideleftT2 mt-[24px] text-white  ">
           <span className=" text-[40px] 400:text-[50px]  800:text-[57px] font-bold align-top ">
-            Hi, I'm{" "}
+            Hi, I&apos;m{" "}
             <span className=" text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               Daffa
             </span>{" "}
