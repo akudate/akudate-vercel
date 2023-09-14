@@ -15,7 +15,7 @@ function page() {
         </Link>
       </div> */}
       <div className=" w-full 1250:w-[900px] h-auto m-auto mt-[25px] pb-[100px] ">
-        <div className=" text-gray-400 text-[14px]">Mon, 12 Sep 2023</div>
+        <div className=" text-gray-400 text-[14px]">Mon, 11 Sep 2023</div>
         <div className="w-full h-auto font-bold text-[29px] my-[15px] text-slate-200  animate-slowfade ">
           Hi, I&apos;m Daffa
         </div>
@@ -65,7 +65,7 @@ function page() {
         <span className="text-emerald-500">Backend</span>
         </div>
         <div className=" text-gray-300  mt-[15px] mb-[10px]  animate-slideright">
-          Node.js, Express.js, Laravel, CodeIgniter, PHP, MongoDB, FireBase, Prisma, Docker, MySQL.
+          Node.js, Express.js, Laravel, CodeIgniter, PHP, MongoDB, Firebase, Prisma, Docker, MySQL.
         </div>
         <Link
           href={"/Project"}

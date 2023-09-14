@@ -429,9 +429,9 @@ export const Project: Project_data[] = [
     technology_feature: [
       "Tailwind",
       "React",
-      "Next js 13",
-      "Type Script",
-      "Mongo db",
+      "Next.js 13",
+      "TypeScript",
+      "MongoDB",
     ],
     about_this_app:
       "Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever.",
@@ -467,9 +467,10 @@ export const Project: Project_data[] = [
     say_xi_blog:
       "An E-Inventory application made with CodeIgniter 4",
     technology_feature: [
+      "CSS",
+      "MySQL",
       "Codeigniter",
       "PHP",
-      "MySQL",
     ],
 
     about_this_app:
@@ -504,9 +505,10 @@ export const Project: Project_data[] = [
     say_xi_blog:
       "A Youth & Sport management application made with Laravel",
     technology_feature: [
+      "CSS",
+      "MySQL",
       "Laravel",
       "PHP",
-      "MySQL",
     ],
 
     about_this_app:

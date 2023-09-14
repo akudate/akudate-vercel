@@ -16,7 +16,7 @@ function Technology_tag({ data }: Props) {
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("css") ? "" : " hidden"
+          data.technology_feature.includes("CSS") ? "" : " hidden"
         }  bg-[#2062AF]    text-white `}
       >
         CSS
@@ -73,14 +73,14 @@ function Technology_tag({ data }: Props) {
 
       <div
         className={`tag ${
-          data.technology_feature.includes("Type Script") ? "" : " hidden"
-        }  bg-[#2D79C7]    text-[#b0cae4] `}
+          data.technology_feature.includes("TypeScript") ? "" : " hidden"
+        }  bg-[#2D79C7]    text-white `}
       >
         TypeScript
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Next js 13") ? "" : " hidden"
+          data.technology_feature.includes("Next.js 13") ? "" : " hidden"
         }  bg-[#13224a]    text-[#fdfdfd]  `}
       >
         Next.js 13
@@ -116,7 +116,7 @@ function Technology_tag({ data }: Props) {
 
       <div
         className={`tag ${
-          data.technology_feature.includes("Mongo db") ? "" : " hidden"
+          data.technology_feature.includes("MongoDB") ? "" : " hidden"
         }  bg-[#10AA50]    text-[#fdfdfd]  `}
       >
         MongoDB
