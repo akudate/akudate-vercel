@@ -622,8 +622,8 @@ export const Project: Project_data[] = [
       "aos@next",
     ],
     conclusion_blog: "",
-    youtube_link: "https://sushiman-snowy.vercel.app",
-    githhub_link: "https://github.com/notquirrel/sushiman",
+    youtube_link: "https://sushistore.vercel.app",
+    githhub_link: "https://github.com/notquirrel/sushistore",
     frontend_dowload_link:
       "",
     backend_dowload_link:
