@@ -9,7 +9,7 @@ function Technology_tag({ data }: Props) {
     <div className="w-full h-auto flex flex-row items-center flex-wrap mt-[10px] ">
       <div
         className={`tag ${
-          data.technology_feature.includes("html") ? "" : " hidden"
+          data.technology_feature.includes("HTML") ? "" : " hidden"
         }  bg-[#E54F24]    text-white  `}
       >
         HTML
@@ -23,7 +23,7 @@ function Technology_tag({ data }: Props) {
       </div>
       <div
         className={`tag ${
-          data.technology_feature.includes("Javascript") ? "" : " hidden"
+          data.technology_feature.includes("JavaScript") ? "" : " hidden"
         }  bg-[#F0DB4F]    text-black `}
       >
         JavaScript
