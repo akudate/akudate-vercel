@@ -446,7 +446,6 @@ export const Project: Project_data[] = [
       "install mongoose",
       "install uploadthing @uploadthing/react",
       "shadcn-ui@latest init",
-      "shadcn-ui@latest add input",
     ],
     conclusion_blog: "",
     youtube_link: "https://threads-app-sand.vercel.app",
@@ -459,6 +458,49 @@ export const Project: Project_data[] = [
       "Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever.",
     Type: "Next js 13",
     indevelopment: true,
+  },
+  {
+    title: "Discord Clone App",
+    video_key: "R90bxY4UwPg",
+    say_xi: "Introduction",
+    say_xi_blog:
+      "A Discord clone made with Next.js 13",
+    technology_feature: [
+      "Tailwind",
+      "React",
+      "Next.js 13",
+      "TypeScript",
+      "MongoDB",
+      "Prisma",
+    ],
+    about_this_app:
+      "Develop Discord, Next.js 13 app with real-time messaging, server creation & customization, 1 on 1 conversation between members, audio & video call channels, and member management (kick & role change between Guest / Moderator).",
+    design_blog: "",
+    dependencies_blog:
+      "You can use yarn or npm to install the dependencies. In this case I'm using npm",
+    package: [
+      "create-next-app@latest",
+      "install @clerk/nextjs",
+      "install @clerk/themes",
+      "install socket.io",
+      "install livekit-client --save",
+      "install uploadthing @uploadthing/react",
+      "shadcn-ui@latest init",
+      "prisma init",
+      "prisma generate",
+      "prisma db push",
+    ],
+    conclusion_blog: "",
+    youtube_link: "https://discord-app-production-3cde.up.railway.app",
+    githhub_link: "https://github.com/notquirrel/discord-app",
+    frontend_dowload_link:
+      "",
+    backend_dowload_link: "",
+    project_image: "/discord.png",
+    project_blog:
+      "Develop Discord, Next.js 13 app with real-time messaging, server creation & customization, 1 on 1 conversation between members, audio & video call channels, and member management (kick & role change between Guest / Moderator).",
+    Type: "Next js 13",
+    indevelopment: false,
   },
   {
     title: "E-Inventory",
