@@ -491,7 +491,7 @@ export const Project: Project_data[] = [
       "prisma db push",
     ],
     conclusion_blog: "",
-    youtube_link: "https://discord-app-production-3cde.up.railway.app",
+    youtube_link: "https://discord-app-production-7916.up.railway.app",
     githhub_link: "https://github.com/notquirrel/discord-app",
     frontend_dowload_link:
       "",
