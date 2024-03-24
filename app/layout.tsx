@@ -7,7 +7,7 @@ import StarsCanvas from "./(StarMode)/Background_Stars";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Daffa Code",
+  title: "AkuDate",
   description: "A web portfolio made using Next.js 13",
 };
 

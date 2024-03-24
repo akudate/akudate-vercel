@@ -449,7 +449,7 @@ export const Project: Project_data[] = [
     ],
     conclusion_blog: "",
     youtube_link: "https://threads-app-sand.vercel.app",
-    githhub_link: "https://github.com/notquirrel/threads-app",
+    githhub_link: "https://github.com/akudate/threads-app",
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
@@ -492,7 +492,7 @@ export const Project: Project_data[] = [
     ],
     conclusion_blog: "",
     youtube_link: "https://discord-app-production-792e.up.railway.app",
-    githhub_link: "https://github.com/notquirrel/discord-app",
+    githhub_link: "https://github.com/akudate/discord-app",
     frontend_dowload_link:
       "",
     backend_dowload_link: "",
@@ -529,7 +529,7 @@ export const Project: Project_data[] = [
     ],
     conclusion_blog: "",
     youtube_link: "#",
-    githhub_link: "https://github.com/notquirrel/inventori-ci4",
+    githhub_link: "https://github.com/akudate/inventori-ci4",
     frontend_dowload_link:
       "",
     backend_dowload_link:
@@ -665,7 +665,7 @@ export const Project: Project_data[] = [
     ],
     conclusion_blog: "",
     youtube_link: "https://sushistore.vercel.app",
-    githhub_link: "https://github.com/notquirrel/sushistore",
+    githhub_link: "https://github.com/akudate/sushistore",
     frontend_dowload_link:
       "",
     backend_dowload_link:

@@ -56,7 +56,7 @@ function Footer() {
           <div className="min-w-[200px]  h-auto flex flex-col  items-center 630:items-start justify-start">
             <div className=" font-bold text-[16px]">Social Media</div>
             <a
-              href="https://www.instagram.com/notquirrel"
+              href="https://www.instagram.com/akudate"
               className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer "
               target="blank"
             >
@@ -110,7 +110,7 @@ function Footer() {
           <div className="min-w-[200px]  h-auto flex flex-col  items-center 630:items-start justify-start">
             <div className=" font-bold text-[16px]">About</div>
             <a
-              href="https://github.com/notquirrel"
+              href="https://github.com/akudate"
               className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer "
               target="blank"
             >
@@ -131,19 +131,19 @@ function Footer() {
             </div>
             <div className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer ">
               <a
-                href="mailto:quirrelcode@gmail.com"
+                href="mailto:akudate127@gmail.com"
                 className=" text-[15px] hover:underline "
                 target="blank"
               >
-                quirrelcode@gmail.com
+                akudate127@gmail.com
               </a>
             </div>
           </div>
         </div>
 
-        <div className="mb-[20px] text-[15px] text-center  ">
+        {/* <div className="mb-[20px] text-[15px] text-center  ">
           &copy; Muhammad Daffa 2023 All rights reserved
-        </div>
+        </div> */}
       </div>
     </div>
   );

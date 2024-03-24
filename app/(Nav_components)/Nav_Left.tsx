@@ -8,15 +8,15 @@ function Nav_Left() {
         src={"/glaxy.png"}
         width={40}
         height={40}
-        alt="Daffa Code"
+        alt="AkuDate"
         className="  cursor-pointer  hover:animate-slowspin  "
       />
-      <span
+      {/* <span
         id="cursive"
         className=" font-bold  text-gray-300  ml-[10px] hidden 310:flex "
       >
-        Daffa Code
-      </span>
+        akudate
+      </span> */}
     </Link>
   );
 }

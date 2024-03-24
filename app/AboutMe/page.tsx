@@ -22,13 +22,13 @@ function page() {
         <div className=" text-gray-300 animate-slideright ">
           A passionate software engineer with a deep passion for creating elegant and efficient solutions through code. With a comprehensive understanding of various <span className="text-sky-500">frontend</span> & <span className="text-emerald-500">backend</span> libraries and frameworks, I have been navigating the ever-evolving landscape of web development with enthusiasm and dedication. Currently, reside in Cirebon, <span className="text-rose-600">Indonesia</span>.
         </div>
-        <div>
-          <div style={{ opacity: 0, userSelect: 'none' }} className="text-[5px]  my-[15px]  animate-slideright ">
+        <div className="mb-5">
+          {/* <div style={{ opacity: 0, userSelect: 'none' }} className="text-[5px]  my-[15px]  animate-slideright ">
             <span className="monospace">All i learning selfstudy from</span>
             <span className="text-rose-600"> youtube</span> ,
             <span className="text-emerald-500"> Google</span> ,
             <span className=" text-[#F48024]"> Stackoverflow</span>
-          </div>
+          </div> */}
         </div>
         <div className="text-gray-300  animate-slideright">
           As a <span className="text-yellow-500">fast learner</span> and <span className=" text-[#F48024]">adaptive thinker</span>, I thrive in dynamic environments where innovation is the driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only my technical prowess but also a humble attitude that values every members input.
