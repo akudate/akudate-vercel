@@ -27,12 +27,11 @@ function Projectpagebody() {
         <div className=" w-full h-auto flex flex-row items-center justify-center   flex-wrap p-[10px] 840:p-0  ">
           {Search_data.map((data: Project_data, index: any) =>
             data.Type === "React Native" ? (
-              // <Projectcard_Mobile
-              //   key={data.title + data.project_image}
-              //   index={index}
-              //   data={data}
-              // />
-              ""
+              <Projectcard_Mobile
+                key={data.title + data.project_image}
+                index={index}
+                data={data}
+              />
             ) : data.Type === "server" ? (
               <div></div>
             ) : (
@@ -48,12 +47,11 @@ function Projectpagebody() {
         <div className=" w-full h-auto flex flex-row  items-center  justify-center  flex-wrap p-[10px] 840:p-0  ">
           {Project.map((data: Project_data, index: any) =>
             data.Type === "React Native" ? (
-              // <Projectcard_Mobile
-              //   key={data.title + data.project_image}
-              //   index={index}
-              //   data={data}
-              // />
-              ""
+              <Projectcard_Mobile
+                key={data.title + data.project_image}
+                index={index}
+                data={data}
+              />
             ) : data.Type === "server" ? (
               <div></div>
             ) : (
@@ -79,12 +77,11 @@ function Projectpagebody() {
         >
           {onlyReactProject.map((data: Project_data, index: any) =>
             data.Type === "React Native" ? (
-              // <Projectcard_Mobile
-              //   key={data.title + data.video_key + data.project_image}
-              //   index={index}
-              //   data={data}
-              // />
-              ""
+              <Projectcard_Mobile
+                key={data.title + data.video_key + data.project_image}
+                index={index}
+                data={data}
+              />
             ) : (
               <Projectcard_Web
                 key={data.title + data.video_key + data.project_image}

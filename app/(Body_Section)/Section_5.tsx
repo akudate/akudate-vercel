@@ -19,12 +19,11 @@ function Section_5() {
       <div className=" w-full h-auto flex flex-row items-center justify-center  1250:justify-between flex-wrap p-[10px] 840:p-0  ">
         {Project.slice(0, 7).map((data: Project_data, index: any) =>
           data.Type === "React Native" ? (
-            // <Projectcard_Mobile
-            //   key={data.title + data.project_image + index}
-            //   index={index}
-            //   data={data}
-            // />
-            ""
+            <Projectcard_Mobile
+              key={data.title + data.project_image + index}
+              index={index}
+              data={data}
+            />
           ) : (
             <Projectcard_Web
               key={data.title + data.project_image + index}
