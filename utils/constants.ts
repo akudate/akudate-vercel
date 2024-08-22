@@ -421,6 +421,61 @@ export const Other_skill3: Skill_data[] = [
 
 export const Project: Project_data[] = [
   {
+    title: "Edu Potensi App",
+    video_key: "AxQ_Eli8gtk",
+    say_xi: "Introduction",
+    say_xi_blog:
+      "ReactNative First Project With Expo CLI Conatain Google AUthentication Contain Basic RestApi and Google Maps functionality ",
+    technology_feature: [
+      "CSS",
+      "MySQL",
+      "Laravel",
+      "PHP",
+    ],
+
+    about_this_app:
+      "A comprehensive school management app designed to enhance the organization and communication between students and teachers. This powerful tool enables seamless attendance tracking, efficient management of subjects, and streamlined coordination of academic activities. Whether you're a teacher or a student, this app simplifies daily school operations, ensuring better organization, progress tracking, and fostering a more productive learning environment.",
+    design_blog: "Desing From PapaReact YouTube Channel",
+    dependencies_blog:
+      "You can use Yarn or NPM to install the dependencies. In this case we use Yarn and since this project was developed using expo we can also use the expo-cli to install the dependencies.",
+    package: [
+      "expo",
+      "react-native-gesture-handler",
+      "react-native-heroicons",
+      "react-native-maps",
+      "react-native-progress",
+      "react-native-safe-area-context",
+      "react-native-screens",
+      "react-native-svg",
+      "react-redux",
+      "typescript",
+      "nativewind",
+      "expo-splash-screen",
+      "@react-navigation/native",
+      "@react-native-masked-view/masked-view",
+      "@react-native-async-storage/async-storage",
+    ],
+    conclusion_blog: "",
+    youtube_link: "https://youtu.be/AxQ_Eli8gtk",
+    githhub_link: "https://github.com/HyatMyat4",
+    frontend_dowload_link:
+      "https://github.com/HyatMyat4/Deliveroo_Mobile.apk/archive/refs/heads/main.zip",
+    backend_dowload_link:
+      "https://github.com/HyatMyat4/Deliveroo/archive/refs/heads/main.zip",
+    project_image: "",
+    project_blog:
+      "A comprehensive school management app designed to enhance the organization and communication between students and teachers. This powerful tool enables seamless attendance tracking, efficient management of subjects, and streamlined coordination of academic activities. Whether you're a teacher or a student, this app simplifies daily school operations, ensuring better organization, progress tracking, and fostering a more productive learning environment.",
+    Type: "React Native",
+    project_Img_Mobile: [
+      "/eduLogin.png",
+      "/eduHome.png",
+      "/eduAbsen.png",
+      "/eduJadwal.png",
+      "/eduProfile.png",
+    ],
+    indevelopment: false,
+  },
+  {
     title: "Threads Clone App",
     video_key: "HvkrAjHJ-38",
     say_xi: "Introduction",
@@ -538,61 +593,6 @@ export const Project: Project_data[] = [
     project_blog:
       "A simple CRUD application intended for beginners who's not familiar with programming",
     Type: "Codeigniter",
-    indevelopment: false,
-  },
-  {
-    title: "Edu Potensi App",
-    video_key: "AxQ_Eli8gtk",
-    say_xi: "Introduction",
-    say_xi_blog:
-      "ReactNative First Project With Expo CLI Conatain Google AUthentication Contain Basic RestApi and Google Maps functionality ",
-    technology_feature: [
-      "CSS",
-      "MySQL",
-      "Laravel",
-      "PHP",
-    ],
-
-    about_this_app:
-      "A comprehensive school management app designed to enhance the organization and communication between students and teachers. This powerful tool enables seamless attendance tracking, efficient management of subjects, and streamlined coordination of academic activities. Whether you're a teacher or a student, this app simplifies daily school operations, ensuring better organization, progress tracking, and fostering a more productive learning environment.",
-    design_blog: "Desing From PapaReact YouTube Channel",
-    dependencies_blog:
-      "You can use Yarn or NPM to install the dependencies. In this case we use Yarn and since this project was developed using expo we can also use the expo-cli to install the dependencies.",
-    package: [
-      "expo",
-      "react-native-gesture-handler",
-      "react-native-heroicons",
-      "react-native-maps",
-      "react-native-progress",
-      "react-native-safe-area-context",
-      "react-native-screens",
-      "react-native-svg",
-      "react-redux",
-      "typescript",
-      "nativewind",
-      "expo-splash-screen",
-      "@react-navigation/native",
-      "@react-native-masked-view/masked-view",
-      "@react-native-async-storage/async-storage",
-    ],
-    conclusion_blog: "",
-    youtube_link: "https://youtu.be/AxQ_Eli8gtk",
-    githhub_link: "https://github.com/HyatMyat4",
-    frontend_dowload_link:
-      "https://github.com/HyatMyat4/Deliveroo_Mobile.apk/archive/refs/heads/main.zip",
-    backend_dowload_link:
-      "https://github.com/HyatMyat4/Deliveroo/archive/refs/heads/main.zip",
-    project_image: "",
-    project_blog:
-      "A comprehensive school management app designed to enhance the organization and communication between students and teachers. This powerful tool enables seamless attendance tracking, efficient management of subjects, and streamlined coordination of academic activities. Whether you're a teacher or a student, this app simplifies daily school operations, ensuring better organization, progress tracking, and fostering a more productive learning environment.",
-    Type: "React Native",
-    project_Img_Mobile: [
-      "/eduLogin.png",
-      "/eduHome.png",
-      "/eduAbsen.png",
-      "/eduJadwal.png",
-      "/eduProfile.png",
-    ],
     indevelopment: false,
   },
   {
