@@ -442,6 +442,13 @@ export const Project: Project_data[] = [
       "",
     ],
     conclusion_blog: "",
+    youtube_link: "",
+    githhub_link: "",
+    frontend_dowload_link:
+      "",
+    backend_dowload_link:
+      "",
+    project_image: "",
     project_blog:
       "A comprehensive school management app designed to enhance the organization and communication between students and teachers. This powerful tool enables seamless attendance tracking, efficient management of subjects, and streamlined coordination of academic activities. Whether you're a teacher or a student, this app simplifies daily school operations, ensuring better organization, progress tracking, and fostering a more productive learning environment.",
     Type: "React Native",
